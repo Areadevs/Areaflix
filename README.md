@@ -35,7 +35,7 @@ ___
 
 ## 📝 License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/Areadevs/Areaflix/MIT%20License.txt) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/Areadevs/Areaflix/blob/main/MIT%20License.txt) for more information.
 
 ___
 
