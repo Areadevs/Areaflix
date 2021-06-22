@@ -1,4 +1,7 @@
 # Areaflix #
+
+Application implemented in javascript training on Areadev channel
+
 ## 💻 Desktop
 ![Alt text](/img/desktop.gif)
 
