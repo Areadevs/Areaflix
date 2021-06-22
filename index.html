@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aplicação Filmes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main>
+        <header class="header-movies">
+            <div class="container">
+                <h1 class="header-movies__title">Areaflix</h1>
+            </div>
+        </header>
+        <section class="section-movies">
+            <div class="container">
+                <div class="app-movies">
+                    <h2 class="app-movies__title">Filmes, séries e muito mais. Sem limites.</h2>
+                    <h3 class="app-movies__subtitle">Assista onde quiser. Cancele quando quiser.</h3>
+                    <p class="app-movies__msg">Pronto para assistir? Informe seu email para criar ou reiniciar sua assinatura.</p>
+                    <form class="form" method="GET">
+                        <input type="text" placeholder="Buscar filme" name="movie" class="form__input" >
+                        <input type="submit" class="form__submit" value="Vamos lá">
+                    </form>
+                </div>
+                <ul class="app-movies-all" id="movies"></ul>
+            </div>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
